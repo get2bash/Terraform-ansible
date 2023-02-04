@@ -31,5 +31,5 @@ Using Terraform to create 3 EC2 instances and Ansible script that uses the host-
 
 ### Visiting the domain
 ![Screen Shot 2023-02-04 at 3 49 13 AM](https://user-images.githubusercontent.com/97449891/216743752-f35433f7-3b24-425a-981a-c4995fdaf9af.png)
-![Screen Shot 2023-02-04 at 3 49 29 AM](https://user-images.githubusercontent.com/97449891/216743762-c27dc68e-eb29-4bb6-8563-7ac1fb7dab36.png)
+![Screen Shot 2023-02-04 at 4 07 54 AM](https://user-images.githubusercontent.com/97449891/216743923-09ecc046-8497-497a-b0ae-92b6aaf9b37a.png)
 ![Screen Shot 2023-02-04 at 3 49 40 AM](https://user-images.githubusercontent.com/97449891/216743774-617e4155-a09d-4f6d-bf63-1b387276f61a.png)
