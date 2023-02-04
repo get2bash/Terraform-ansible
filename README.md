@@ -13,21 +13,23 @@ Using Terraform to create 3 EC2 instances and Ansible script that uses the host-
 ## Results
 
 ### VPC created
-Screen Shot 2023-02-04 at 3.44.46 AM.png
+![Screen Shot 2023-02-04 at 3 44 46 AM](https://user-images.githubusercontent.com/97449891/216743701-7095a466-3be5-406c-9238-065ca22ff58b.png)
+
 
 ### Instances created
-Screen Shot 2023-02-04 at 3.45.42 AM.png
+![Screen Shot 2023-02-04 at 3 45 42 AM](https://user-images.githubusercontent.com/97449891/216743711-bc644b35-6553-423f-958d-2c394eb5a5ce.png)
+
 
 ### Loadbalancer created
-Screen Shot 2023-02-04 at 3.46.27 AM.png
+![Screen Shot 2023-02-04 at 3 46 27 AM](https://user-images.githubusercontent.com/97449891/216743720-f7b9d155-9019-4b5d-b331-ea868b2ebe6b.png)
 
 ### Hosted zone created
-Screen Shot 2023-02-04 at 3.47.38 AM.png
+![Screen Shot 2023-02-04 at 3 47 38 AM](https://user-images.githubusercontent.com/97449891/216743733-d7af1a57-e814-4436-a2d4-9d86bdba705c.png)
 
 ### A record created
-Screen Shot 2023-02-04 at 3.48.35 AM.png
+![Screen Shot 2023-02-04 at 3 48 35 AM](https://user-images.githubusercontent.com/97449891/216743745-d43d1408-c912-4f91-9bc2-048ecdc51d18.png)
 
 ### Visiting the domain
-Screen Shot 2023-02-04 at 3.49.13 AM.png
-Screen Shot 2023-02-04 at 3.49.29 AM.png
-Screen Shot 2023-02-04 at 3.49.40 AM.png
+![Screen Shot 2023-02-04 at 3 49 13 AM](https://user-images.githubusercontent.com/97449891/216743752-f35433f7-3b24-425a-981a-c4995fdaf9af.png)
+![Screen Shot 2023-02-04 at 3 49 29 AM](https://user-images.githubusercontent.com/97449891/216743762-c27dc68e-eb29-4bb6-8563-7ac1fb7dab36.png)
+![Screen Shot 2023-02-04 at 3 49 40 AM](https://user-images.githubusercontent.com/97449891/216743774-617e4155-a09d-4f6d-bf63-1b387276f61a.png)
